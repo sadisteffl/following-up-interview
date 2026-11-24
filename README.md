@@ -1,4 +1,4 @@
-# interview-followup
+# interview-follow-up
 
 This repository contains two Terraform-based proof-of-concept projects created as an interview follow-up to demonstrate my approach to security engineering, infrastructure automation, and operational problem-solving.
 
